@@ -6,7 +6,7 @@ You can reach me on linkedin:
 
 <a href="https://www.linkedin.com/in/diego-carreia-rocha/" target="_blank"><img src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-Dark.png" width="50"></a>
 
- <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
+ <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="308">
 
 ```javascript
 const diego = {
