@@ -8,15 +8,16 @@ You can reach me on linkedin:
 
  <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
 
+javascript
 const diego = {
     askMeAbout: ["backend dev", "web dev", "tech", "infrastructure"],
     technologies: {
         BackEnd: ["Java", "Python"],
         Infrastructure: ["Terraform", "Ansible", "Kubernetes", "Docker"],
-        web: {
+        FrontEnd: {
             ["React", "Js"]
         },
-        databases: ["MySql", "PostgreSql"],
+        Databases: ["MySql", "PostgreSql"],
     }
 };
 
