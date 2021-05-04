@@ -8,7 +8,7 @@ You can reach me on linkedin:
 
  <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
 
-javascript
+```javascript
 const diego = {
     askMeAbout: ["backend dev", "web dev", "tech", "infrastructure"],
     technologies: {
@@ -20,5 +20,6 @@ const diego = {
         Databases: ["MySql", "PostgreSql"],
     }
 };
+```
 
 ---
