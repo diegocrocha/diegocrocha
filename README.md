@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there! I'm Diego a dev from Brazil, I'm student at BandTec Digital School! <br>
+My currently main learning focus is Java and Python for back-end, and some things about infrastructure for process automation.
 
-<!--
-**diegocrocha/diegocrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can reach me on linkedin:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/diego-carreia-rocha/" target="_blank"><img src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-Dark.png" width="50"></a>
+
+ <img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="230">
+
+javascript
+const diego = {
+    askMeAbout: ["backend dev", "web dev", "tech", "infrastructure"],
+    technologies: {
+        BackEnd: ["Java", "Python"],
+        Infrastructure: ["Terraform", "Ansible", "Kubernetes", "Docker"],
+        web: {
+            ["React", "Js"]
+        },
+        databases: ["MySql", "PostgreSql"],
+    }
+};
+
+---
+
+⭐
