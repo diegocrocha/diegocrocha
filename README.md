@@ -1,4 +1,4 @@
-Hi there! I'm Diego a dev from Brazil, I'm student at BandTec Digital School! <br>
+Hi there! I'm Diego, a dev from Brazil. I'm student at BandTec Digital School! <br>
 My currently main learning focus is Java and Python for back-end, and some things about infrastructure for process automation.
 
 You can reach me on linkedin:
