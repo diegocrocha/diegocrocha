@@ -10,13 +10,10 @@ You can reach me on linkedin:
 
 ```javascript
 const diego = {
-    askMeAbout: ["backend dev", "web dev", "tech", "infrastructure"],
+    askMeAbout: ["backend dev", "tech", "infrastructure"],
     technologies: {
         BackEnd: ["Java", "Python"],
         Infrastructure: ["Terraform", "Ansible", "Kubernetes", "Docker"],
-        FrontEnd: {
-            ["React", "Js"]
-        },
         Databases: ["MySql", "PostgreSql"],
     }
 };
